@@ -64,7 +64,7 @@ Next start the server from the projects main directory using python3 manage.py r
     </body>
 </html>
 ```
-### fs
+### Food Shop
 ```html
 <!DOCTYPE html>
 <html>
@@ -83,7 +83,7 @@ Next start the server from the projects main directory using python3 manage.py r
 
 </html>
 ```
-### ms
+### Meat Shop
 ```html
 <!DOCTYPE html>
 <html>
@@ -102,7 +102,7 @@ Next start the server from the projects main directory using python3 manage.py r
 
 </html>
 ```
-### mos
+### Mobile Shop
 ```html
 <!DOCTYPE html>
 <html>
@@ -121,7 +121,7 @@ Next start the server from the projects main directory using python3 manage.py r
 
 </html>
 ```
-### gs
+### Government School
 ```html
 <!DOCTYPE html>
 <html>
@@ -140,7 +140,7 @@ Next start the server from the projects main directory using python3 manage.py r
 
 </html>
 ```
-### sm
+### Supermarket
 ```html
 <!DOCTYPE html>
 <html>
@@ -161,18 +161,27 @@ Next start the server from the projects main directory using python3 manage.py r
 ```
 
 ## Output:
+
 ### map
 ![](./mapop.png)
-### fs
+
+### Food Shop
 ![](./fsop.png)
-### ms
+
+### Meat Shop
 ![](./msop.png)
-### mos
+
+### Mobile Shop
 ![](./mosop.png)
-### gs
+
+### Government School
 ![](./gsop.png)
-### sm
+
+### Supermarket
 ![](./smop.png)
+
+### Html Check
+![html check map](https://github.com/MohammedFaizal05/places-around-me/assets/120553195/b7bb5f4d-5973-4e66-ad88-4cb231d7cc0a)
 
 ## Result:
 Thus the code has been executed successfully.
